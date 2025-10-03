@@ -1,0 +1,15 @@
+requests
+pandas
+python-docx
+python-dotenv
+openpyxl
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-groq
+faiss-cpu
+transformers
+torch
