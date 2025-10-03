@@ -34,9 +34,3 @@ pip install -r requirements.txt
 ```
 
 3. Add your .env file with API keys.
-
-
-4. Run the Streamlit app:
-```
-streamlit run meeting.py
-```
